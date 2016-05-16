@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://karaokepro.net/' target='_blank'><img src='http://www.myphamhanquocxachtay.com.vn/upload/hinhanh/210247461823434.jpg' width='500px'/>Cung cấp thiết bị karaoke</a>Bảo hành chính hãng 24 tháng <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://karaokepro.net/' target='_blank'><img src='http://gaongononline.com/HinhQC/logo-karaokepro.net.png' width='500px'/>Cung Cấp Thiết Bị Karaoke</a>Bảo hành chính hãng 24 tháng <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
