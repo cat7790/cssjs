@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://tdn-company.com.vn/san-pham/hologram.html' target='_blank'><img src='hhttp://tdn-company.com.vn/images/quang-cao/ads-1.png' width='500px'/>Tem chống hàng giả giá rẻ/a>. Công nghệ hiện đại - Siêu bảo mật <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://tdn-company.com.vn/san-pham/hologram.html' target='_blank'><img src='http://gaongononline.com/HinhQC/q-c-tindan.gif' width='500px'>Tem chống hàng giả giá rẻ</a>. Công nghệ hiện đại - Siêu bảo mật <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
