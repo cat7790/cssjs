@@ -1,4 +1,4 @@
-	var url_popup = 'http://bit.ly/1Tpe1G2';
+	var url_popup = 'http://bit.ly/1X2pdc6';
 
 
       //<![CDATA[
