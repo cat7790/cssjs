@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://gaongononline.com/gia-gao-hom-nay/' target='_blank'><img src='http://gaongononline.com/wp-content/uploads/2016/06/banner-gao-ngon-online-1.png' width='500px'/>Giá gạo hôm nay</a>. Click để nhận ngay Giá Khuyến Mãi <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://gaongononline.com/gia-gao-hom-nay/' target='_blank'><img src='http://gaongononline.com/HinhQC/gao-ngon-qc.png' width='500px'/>Giá gạo hôm nay</a>. Click để nhận ngay Giá Khuyến Mãi <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
