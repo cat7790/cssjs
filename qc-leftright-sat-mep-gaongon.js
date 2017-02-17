@@ -53,8 +53,8 @@ var clientWidth	=	window.screen.width;
                 document.write('<div id="divAdRight" style="position: absolute; top: 0px; width:100px; height:500px; overflow:hidden;"> <a href="http://gaongononline.com/ban-gao-tu-thien/" target="_blank"><img src="http://gaongononline.com/HinhQC/banner-doc-gao.png"  width ="100" alt="gạo ngon online - gạo từ thiện" /></a></div><div id="divAdLeft" style="position: absolute; top: 0px; width:100px; height:500px; overflow:hidden;"><a href="http://gaongononline.com/gia-gao-hom-nay/" target="_blank" title="Gạo ngon giá rẻ-giao tận nhà"><img src="http://gaongononline.com/HinhQC/banner-doc-gao.png"  width ="100" alt="Gạo ngon giá rẻ - giao gạo tận nhà" /></a></div>');	
                 
                 var MainContentW = 1000;
-                var LeftBannerW = 50;
-                var RightBannerW = 50;
+                var LeftBannerW = 100;
+                var RightBannerW = 100;
                 var LeftAdjust = 10;
                 var RightAdjust = 10;
                 var TopAdjust = 80;
